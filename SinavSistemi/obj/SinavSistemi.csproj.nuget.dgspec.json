@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alican\\source\\Repos\\NewsletterApi.BackendProject\\NewsLetter\\Newsletter.BackendApi\\SinavSistemi\\SinavSistemi.csproj": {}
+    "C:\\Users\\Alican\\Source\\Repos\\SinavSitemi.Net7.0.Mvc\\SinavSistemi\\SinavSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alican\\source\\Repos\\NewsletterApi.BackendProject\\NewsLetter\\Newsletter.BackendApi\\SinavSistemi\\SinavSistemi.csproj": {
+    "C:\\Users\\Alican\\Source\\Repos\\SinavSitemi.Net7.0.Mvc\\SinavSistemi\\SinavSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alican\\source\\Repos\\NewsletterApi.BackendProject\\NewsLetter\\Newsletter.BackendApi\\SinavSistemi\\SinavSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\Alican\\Source\\Repos\\SinavSitemi.Net7.0.Mvc\\SinavSistemi\\SinavSistemi.csproj",
         "projectName": "SinavSistemi",
-        "projectPath": "C:\\Users\\Alican\\source\\Repos\\NewsletterApi.BackendProject\\NewsLetter\\Newsletter.BackendApi\\SinavSistemi\\SinavSistemi.csproj",
+        "projectPath": "C:\\Users\\Alican\\Source\\Repos\\SinavSitemi.Net7.0.Mvc\\SinavSistemi\\SinavSistemi.csproj",
         "packagesPath": "C:\\Users\\Alican\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alican\\source\\Repos\\NewsletterApi.BackendProject\\NewsLetter\\Newsletter.BackendApi\\SinavSistemi\\obj\\",
+        "outputPath": "C:\\Users\\Alican\\Source\\Repos\\SinavSitemi.Net7.0.Mvc\\SinavSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.1, )"
@@ -65,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.1, )"
             }

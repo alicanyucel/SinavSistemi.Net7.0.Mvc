@@ -9,37 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SinavSistemi
 build_property.RootNamespace = SinavSistemi
-build_property.ProjectDir = C:\Users\Alican\source\Repos\NewsletterApi.BackendProject\NewsLetter\Newsletter.BackendApi\SinavSistemi\
+build_property.ProjectDir = C:\Users\Alican\Source\Repos\SinavSitemi.Net7.0.Mvc\SinavSistemi\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Alican\source\Repos\NewsletterApi.BackendProject\NewsLetter\Newsletter.BackendApi\SinavSistemi
+build_property.MSBuildProjectDirectory = C:\Users\Alican\Source\Repos\SinavSitemi.Net7.0.Mvc\SinavSistemi
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/Home/Index.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/Home/Privacy.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/Shared/Error.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Quiz/AnswerQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxBbnN3ZXJRdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Quiz/CreateANewQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxDcmVhdGVBTmV3UXVpei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Quiz/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/_ViewImports.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/_ViewStart.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alican/source/Repos/NewsletterApi.BackendProject/NewsLetter/Newsletter.BackendApi/SinavSistemi/Views/Shared/_Layout.cshtml]
+[C:/Users/Alican/Source/Repos/SinavSitemi.Net7.0.Mvc/SinavSistemi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4h94x14zxi
