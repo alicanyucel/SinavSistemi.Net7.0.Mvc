@@ -8,8 +8,10 @@ namespace SinavSistemi.DataContex
     {
         public CreateAQuizDb(DbContextOptions options) : base(options)
         {
-        }// deneme commit
-
+        }// 
+       /// <summary>
+       ///  proje tamamlandı
+       /// </summary>
         public DbSet<Quiz> Quizzes { get; set; }
         public DbSet<New> News { get; set; }
     }
